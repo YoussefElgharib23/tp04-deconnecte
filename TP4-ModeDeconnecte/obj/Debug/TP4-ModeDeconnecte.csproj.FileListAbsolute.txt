@@ -1,0 +1,10 @@
+C:\Users\Youssef El Gharib\source\repos\TP4-ModeDeconnecte\TP4-ModeDeconnecte\obj\Debug\TP4-ModeDeconnecte.csprojAssemblyReference.cache
+C:\Users\Youssef El Gharib\source\repos\TP4-ModeDeconnecte\TP4-ModeDeconnecte\obj\Debug\TP4_ModeDeconnecte.Form1.resources
+C:\Users\Youssef El Gharib\source\repos\TP4-ModeDeconnecte\TP4-ModeDeconnecte\obj\Debug\TP4_ModeDeconnecte.Properties.Resources.resources
+C:\Users\Youssef El Gharib\source\repos\TP4-ModeDeconnecte\TP4-ModeDeconnecte\obj\Debug\TP4-ModeDeconnecte.csproj.GenerateResource.cache
+C:\Users\Youssef El Gharib\source\repos\TP4-ModeDeconnecte\TP4-ModeDeconnecte\obj\Debug\TP4-ModeDeconnecte.csproj.CoreCompileInputs.cache
+C:\Users\Youssef El Gharib\source\repos\TP4-ModeDeconnecte\TP4-ModeDeconnecte\bin\Debug\TP4-ModeDeconnecte.exe.config
+C:\Users\Youssef El Gharib\source\repos\TP4-ModeDeconnecte\TP4-ModeDeconnecte\bin\Debug\TP4-ModeDeconnecte.exe
+C:\Users\Youssef El Gharib\source\repos\TP4-ModeDeconnecte\TP4-ModeDeconnecte\bin\Debug\TP4-ModeDeconnecte.pdb
+C:\Users\Youssef El Gharib\source\repos\TP4-ModeDeconnecte\TP4-ModeDeconnecte\obj\Debug\TP4-ModeDeconnecte.exe
+C:\Users\Youssef El Gharib\source\repos\TP4-ModeDeconnecte\TP4-ModeDeconnecte\obj\Debug\TP4-ModeDeconnecte.pdb
